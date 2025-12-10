@@ -9122,14 +9122,9 @@
     "credits": "by Dan Bryan, converted by Jet",
     "music": [
         {
-            "url": "https://file.garden/Z7qfmQZIZjO_xV5N/NearertoThee.mp3",
-            "displayName": "Nearer, My God, to Thee",
-            "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6a/c5/47/6ac547bd-1966-6328-4a33-48efaaa29146/YCD0814NMG_FrontCover.jpg/1200x630bb.webp"
-        },
-        {
-            "url": "https://file.garden/Z7qfmQZIZjO_xV5N/mankind.mp3",
-            "displayName": "God's Song (That's Why I Love Mankind)",
-            "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/0a/Randy_Newman-Sail_Away_%28album_cover%29.jpg"
+            "url": "https://audio.jukehost.co.uk/eoioX3Yjh7HYV6DVgf3bphpHUpLUKqV6",
+            "displayName": "Suicide is Painless",
+            "imageUrl": "https://i.imgur.com/ESrPQF0.png"
         },
         {
             "url": "https://audio.jukehost.co.uk/bMmCPdb4CgeXI5Z9uDflll1CRnfY16vH",
@@ -9167,19 +9162,19 @@
             "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732c530a9f7be87ce82209b8e0"
         },
         {
-            "url": "https://file.garden/Z7qfmQZIZjO_xV5N/Bubbles.mp3",
-            "displayName": "I'm Forever Blowing Bubbles",
-            "imageUrl": "https://i.discogs.com/mNDwxyBd3tpxyyR6x3Eaf4LJz191zcCn2DnQ0CfOMJM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjIw/NDEtMTU2NDIzMTQ1/MS04Nzg5LmpwZWc.jpeg"
-        },
-        {
-            "url": "https://file.garden/Z7qfmQZIZjO_xV5N/DontAnswerMe.mp3",
-            "displayName": "Don't Answer Me",
-            "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a367d0a4f646cb325ad8bd98"
+            "url": "https://file.garden/Z7qfmQZIZjO_xV5N/ThePartysOver.mp3",
+            "displayName": "The Party's Over",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/en/f/fc/Willie-Nelson-The-Party%27s_Over-and_Other-Great_Willie-Nelson-Songs.jpg"
         },
         {
             "url": "https://file.garden/Z7qfmQZIZjO_xV5N/End%20Of%20The%20Road.mp3",
             "displayName": "End of the Road",
             "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/45/Boomerang_Soundtrack.jpg"
+        },
+        {
+            "url": "https://file.garden/Z7qfmQZIZjO_xV5N/DontAnswerMe.mp3",
+            "displayName": "Don't Answer Me",
+            "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a367d0a4f646cb325ad8bd98"
         },
         {
             "url": "https://audio.jukehost.co.uk/MCSdovRN30PyLD0O0tIrq8porNtLqHqv.mp3",
@@ -9188,13 +9183,13 @@
         },
         {
             "url": "https://file.garden/Z7qfmQZIZjO_xV5N/Gethsemane.mp3",
-            "displayName": "Gethsemane",
+            "displayName": "Gethesemane",
             "imageUrl": "https://i.imgur.com/sxrtppm.png"
         },
         {
-            "url": "https://file.garden/Z7qfmQZIZjO_xV5N/Uspavanka.mp3",
-            "displayName": "Uspavanka",
-            "imageUrl": "https://file.garden/Z7qfmQZIZjO_xV5N/BOJLER.png"
+            "url": "https://files.catbox.moe/v6a717.mp3",
+            "displayName": "Hotel California",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/49/Hotelcalifornia.jpg"
         },
         {
             "url": "https://file.garden/Z7qfmQZIZjO_xV5N/Terrible%20Lie.mp3",
@@ -9215,16 +9210,6 @@
             "url": "https://file.garden/Z7qfmQZIZjO_xV5N/OneHeadlight.mp3",
             "displayName": "One Headlight",
             "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/66/WallflowersBringingDowntheHorse.jpg"
-        },
-        {
-            "url": "https://file.garden/Z7qfmQZIZjO_xV5N/FolsomJerry%20Reed.mp3",
-            "displayName": "Folsom Prison Blues",
-            "imageUrl": "https://i.scdn.co/image/ab67616d0000b273eb82be1632d3a9b2e4360910"
-        },
-        {
-            "url": "https://file.garden/Z7qfmQZIZjO_xV5N/FUBAR.mp3",
-            "displayName": "My Way",
-            "imageUrl": "https://i.imgur.com/YiIVx23.png"
         }
     ]
 }
